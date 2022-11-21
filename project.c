@@ -3,7 +3,7 @@
 #include<time.h>
 int main()
 {
-    printf("wrlcome to my game try to guess my favoriute number")
+    printf("welcome to my game try to guess my favoriute number")
 
     srand(time(NULL));
     double number=rand()%10001+0;
